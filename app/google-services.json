@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92988948049",
+    "project_id": "test-new-knowledge",
+    "storage_bucket": "test-new-knowledge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92988948049:android:80776aa9b9059be7e04270",
+        "android_client_info": {
+          "package_name": "com.minhthieu.testnewknowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92988948049-arrfhnonb4aum9q9kg0rdmfpd69s35ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgCb-qzTOBszbNDklkwzms6_JL9ieSLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92988948049-arrfhnonb4aum9q9kg0rdmfpd69s35ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
